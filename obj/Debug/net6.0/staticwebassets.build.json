@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fr5whaIs8MmrAi0Le30jckKn935Res43eeAq7LsO1q0=",
+  "Source": "MeuDeployHerokuHoje",
+  "BasePath": "_content/MeuDeployHerokuHoje",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
